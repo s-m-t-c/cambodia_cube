@@ -1,5 +1,5 @@
-# cambodiacubenotebooks
-A collection of jupyter notebooks for drought assessment using the open data cube framework
+# cambodia_cube
+A collection of jupyter notebooks and scripts for drought assessment using the open data cube framework
 
 SPEI_cambodia.ipynb : Calculates SPEI and quartile date ranges
 
